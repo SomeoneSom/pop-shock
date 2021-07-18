@@ -1,3 +1,22 @@
+Thank you for downloading Friday Night Funkin'-Pop Shock! We hope you enjoy this new mod!
+
+This version of the game is meant to be played in windowed mode, for streamers and content creators, please set up your capture to the desktop in order to show your audience the full experience of the mod.
+
+# __NOTICE__
+
+This mod interacts with your desktop in order to do the following:
+
+1. Hide items on your desktop temporarily (Many streamers complain about their messy desktops, this application will solve that issue for you while you are playing.)
+
+2. Change your desktop background temporarily (So experiences can be consistent for all users, and will hide some unsavory backgrounds.)
+
+
+Due to the nature of these scripts, some antivirus software may detect this mod as a trojan. Unfortunately this is a false positive that we can't work around. We have tested this program against 66 antivirus applications and it was not tagged as a malicious application of any sort. You can test it on your own antivirus applications to check for yourself. If you are still worried or can't run the application, you can download the alternative flat version, which does not include this special code at the same game banana page, for a more standard fnf experience.
+
+## The amazing people who worked on this mod:
+
+[atpx8/SomeoneSom](https://github.com/SomeoneSom), [Obverser](https://github.com/Obverser), [Mikeonut](https://twitter.com/Mikeonut_YT?s=20), [ChipChapp](https://twitter.com/ChipChappComic?s=20), [TokukuDude](https://twitter.com/TokukuDude?s=20)
+
 ![Kade Engine logo](https://user-images.githubusercontent.com/26305836/110529589-4b4eb600-80ce-11eb-9c44-e899118b0bf0.png)
 
 [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Windows?label=windows%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/build/artifacts)   [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Linux?label=linux%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/build/artifacts) [![Discord](https://img.shields.io/discord/808039740464300104?label=discord)](https://discord.gg/MG6GQFh52U) [![GitHub issues](https://img.shields.io/github/issues/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/pulls) []() []()
