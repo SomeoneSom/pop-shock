@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.20)
-project(cool-stuff)
-set(CXX_STANDARD 17)
-include_directories(cpp/include cpp/include/hx)
-file(GLOB src "cpp/*.cpp")
-add_library(cool-stuff SHARED ${src})
-install(TARGETS cool-stuff RUNTIME DESTINATION ${CMAKE_SOURCE_DIR})
