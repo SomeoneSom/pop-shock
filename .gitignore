@@ -8,3 +8,4 @@ export/
 */*.cmake
 */CMakeCache.txt
 */*.sln
+*/CMakeFiles/

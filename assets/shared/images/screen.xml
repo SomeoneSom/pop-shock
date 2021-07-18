@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screen.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screen0000" x="263" y="163" width="1068" height="619"/>
+<SubTexture name="screen0001" x="263" y="163" width="1068" height="619"/>
+<SubTexture name="screen0002" x="263" y="163" width="1068" height="619"/>
+<SubTexture name="screen0003" x="1594" y="163" width="1068" height="619"/>
+<SubTexture name="screen0004" x="1594" y="163" width="1068" height="619"/>
+<SubTexture name="screen0005" x="2925" y="163" width="1068" height="619"/>
+<SubTexture name="screen0006" x="2925" y="163" width="1068" height="619"/>
+<SubTexture name="screen0007" x="4090" y="163" width="1068" height="619"/>
+<SubTexture name="screen0008" x="4090" y="163" width="1068" height="619"/>
+<SubTexture name="screen0009" x="257" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0010" x="257" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0011" x="1588" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0012" x="1588" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0013" x="2919" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0014" x="2919" y="1001" width="1068" height="619"/>
+<SubTexture name="screen0015" x="2919" y="1001" width="1068" height="619"/>
+	
+</TextureAtlas>
