@@ -15,6 +15,18 @@ Due to the nature of these scripts, some antivirus software may detect this mod 
 
 [atpx8/SomeoneSom](https://github.com/SomeoneSom), [Obverser](https://github.com/Obverser), [Mikeonut](https://twitter.com/Mikeonut_YT?s=20), [ChipChapp](https://twitter.com/ChipChappComic?s=20), [TokukuDude](https://twitter.com/TokukuDude?s=20)
 
+# TO BUILD
+
+You will need:
+
+- Everything you need to build Kade Engine
+
+- extension-webm (use [this video](https://www.youtube.com/watch?v=k67RvU6qI_Q) as reference to install it)
+
+- CMake version 3.20 or above (NOT 3.2.0)
+
+After you have those, just run build.bat and it will do all the work for you.
+
 ![Kade Engine logo](https://user-images.githubusercontent.com/26305836/110529589-4b4eb600-80ce-11eb-9c44-e899118b0bf0.png)
 
 [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Windows?label=windows%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/build/artifacts)   [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Linux?label=linux%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/build/artifacts) [![Discord](https://img.shields.io/discord/808039740464300104?label=discord)](https://discord.gg/MG6GQFh52U) [![GitHub issues](https://img.shields.io/github/issues/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/pulls) []() []()
