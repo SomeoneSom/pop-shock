@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screenh.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screenh0000" x="4389" y="1050" width="471" height="491"/>
+<SubTexture name="screenh0001" x="4389" y="1050" width="471" height="491"/>
+<SubTexture name="screenh0002" x="4890" y="1052" width="472" height="491"/>
+<SubTexture name="screenh0003" x="5393" y="1055" width="697" height="518"/>
+<SubTexture name="screenh0004" x="6161" y="1041" width="486" height="505"/>
+<SubTexture name="screenh0005" x="6161" y="1041" width="486" height="505"/>
+<SubTexture name="screenh0006" x="5393" y="1055" width="697" height="518"/>
+<SubTexture name="screenh0007" x="5393" y="1055" width="697" height="518"/>
+<SubTexture name="screenh0008" x="5393" y="1055" width="697" height="518"/>
+<SubTexture name="screenh0009" x="4890" y="1052" width="472" height="491"/>
+<SubTexture name="screenh0010" x="5393" y="1055" width="697" height="518"/>
+<SubTexture name="screenh0011" x="6161" y="1041" width="486" height="505"/>
+<SubTexture name="screenh0012" x="6161" y="1041" width="486" height="505"/>
+
+	
+</TextureAtlas>

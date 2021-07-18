@@ -1,0 +1,4 @@
+C:/Users/kidss/Desktop/pop shock effects final 1/CMakeFiles/cool-stuff.dir
+C:/Users/kidss/Desktop/pop shock effects final 1/CMakeFiles/INSTALL.dir
+C:/Users/kidss/Desktop/pop shock effects final 1/CMakeFiles/ALL_BUILD.dir
+C:/Users/kidss/Desktop/pop shock effects final 1/CMakeFiles/ZERO_CHECK.dir

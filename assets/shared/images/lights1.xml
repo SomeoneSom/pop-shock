@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lights1.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsp0000" x="50" y="-122" width="180" height="2292"/>
+<SubTexture name="lightsp0001" x="50" y="-122" width="180" height="2048"/>
+<SubTexture name="lightsp0002" x="130" y="-149" width="180" height="2863"/>
+<SubTexture name="lightsp0003" x="130" y="-149" width="180" height="2863"/>
+<SubTexture name="lightsp0004" x="1088" y="-366" width="3317" height="2757"/>
+<SubTexture name="lightsp0005" x="1088" y="-371" width="3317" height="2757"/>
+
+	
+</TextureAtlas>

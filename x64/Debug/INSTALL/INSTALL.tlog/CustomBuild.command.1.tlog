@@ -1,0 +1,10 @@
+^C:\USERS\KIDSS\DESKTOP\POP SHOCK EFFECTS FINAL 1\CMAKEFILES\D36C55E16761F36A2E5E423799883B37\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
