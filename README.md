@@ -1,16 +1,3 @@
-This version of the game is meant to be played in windowed mode, for streamers and content creators, please set up your capture to the desktop in order to show your audience the full experience of the mod.
-
-# __NOTICE__
-
-This mod interacts with your desktop in order to do the following:
-
-1. Hide items on your desktop temporarily (Many streamers complain about their messy desktops, this application will solve that issue for you while you are playing.)
-
-2. Change your desktop background temporarily (So experiences can be consistent for all users, and will hide some unsavory backgrounds.)
-
-
-Due to the nature of these scripts, some antivirus software may detect this mod as a trojan. Unfortunately this is a false positive that we can't work around. We have tested this program against 66 antivirus applications and it was not tagged as a malicious application of any sort. You can test it on your own antivirus applications to check for yourself. If you are still worried or can't run the application, you can download the alternative flat version, which does not include this special code at the same game banana page, for a more standard fnf experience.
-
 ## The amazing people who worked on this mod:
 
 [atpx8/SomeoneSom](https://github.com/SomeoneSom), [Obverser](https://github.com/Obverser), [Mikeonut](https://twitter.com/Mikeonut_YT?s=20), [ChipChapp](https://twitter.com/ChipChappComic?s=20), [TokukuDude](https://twitter.com/TokukuDude?s=20)
@@ -27,65 +14,23 @@ You will need:
 
 After you have those, just run build.bat and it will do all the work for you.
 
-![Kade Engine logo](https://user-images.githubusercontent.com/26305836/110529589-4b4eb600-80ce-11eb-9c44-e899118b0bf0.png)
+# READ THIS BEFORE PLAYING:
 
-[![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Windows?label=windows%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/build/artifacts)   [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Linux?label=linux%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/build/artifacts) [![Discord](https://img.shields.io/discord/808039740464300104?label=discord)](https://discord.gg/MG6GQFh52U) [![GitHub issues](https://img.shields.io/github/issues/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/pulls) []() []()
+As you might have noticed, your desktop wallpaper has changed, the icons are gone, and the taskbar is gone.
+Don't worry, these are to hide messy desktops for people who are recording or streaming this mod.
+It will automatically revert when the game closes.
+There is also a flat version availble if you cant run this version.
 
-![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/KadeDev/Kade-Engine/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/KadeDev/Kade-Engine) ![Lines of code](https://img.shields.io/tokei/lines/github/KadeDev/Kade-Engine) ![Supported platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux%2C%20html5-blue) ![GitHub all releases](https://img.shields.io/github/downloads/KadeDev/Kade-Engine/total) ![GitHub](https://img.shields.io/github/license/KadeDev/Kade-Engine) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/KadeDev/Kade-Engine?include_prereleases&label=latest%20version) 
+## IF THE GAME CRASHES AND DOESN'T RESTORE EVERYTHING:
 
-# Friday Night Funkin': Kade Engine
-## Friday Night Funkin'
-**Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
+Go to the directory Pop Shock.exe is in (the Windows key will still work) and run restoreInCaseOfCrash.exe.
+Do not run the game again when it crashes as it will overwrite the path to your original desktop wallpaper.
+## IF YOU ARE RECORDING OR STERAMING THIS:
 
-Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ [source code on GitHub](https://github.com/ninjamuffin99/Funkin)**
-> Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
+Please use display capture.
 
-## Kade Engine
-**Kade Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
+## IF YOU FULLSCREEN THIS:
 
-Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play in browser](https://funkin.puyo.xyz) ⋅ [latest stable release](https://github.com/KadeDev/Kade-Engine/releases/latest) ⋅ [latest development build (windows)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/build/artifacts) ⋅ [latest development build (linux)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/build/artifacts)**
+It will break and you'll have to rerun the mod most likely.\n"
 
-**REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
-
-# Screenshots ([skip](#Features))
-
-![Tutorial (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113989685-fa5aea80-9850-11eb-9180-f5819a774c79.gif) ![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
-
-![Roses (Hard) on Upscroll](https://user-images.githubusercontent.com/15311104/113993573-e31dfc00-9854-11eb-82ae-1f29dc8a0b04.png)
-
-![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png)
-
-![He malding](https://user-images.githubusercontent.com/15311104/113993693-02b52480-9855-11eb-9975-eb8a7a1be8d1.png)
-
-![Free Play selection screen](https://i.imgur.com/LR0eWIC.png)
-
-![Options Menu](https://i.imgur.com/LBXW9C1.png)
-
-# Features
-
- - **New Input System**
-	 - An improved input system, similar to Quaver or Etterna, with less delays, less dropped inputs and other improvements.
- - **More information during gameplay**
-	 - While you're playing, we show you information about how you're doing, such as your accuracy, combo break count, notes per second, and your grade/rating.
- - **Better key layouts**
-	 - Instead of being forced to use WASD and the arrow keys, now you can play with DFJK!
- - **Replays** (in beta)
-	 - Have you ever gotten a crazy score but didn't record? The replay system solves that: it automatically saves a "replay" of your gameplay every time you complete a song, which you can play back inside of the game. 
-	 - Replays just store information about what you're doing, they don't actually record the screen -- so they take up way less space on your disk than videos.
- - **Audio offset**
-	 - If your headphones are delayed, you can set an offset in the options menu to line the game up with the delay and play with synced audio like intended.
-
-# Credits
-### Friday Night Funkin'
- - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
- - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
- - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
-
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
-### Kade Engine
-- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
-- [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
-
-# Other pages
- - [BUILDING.md](https://github.com/KadeDev/Kade-Engine/blob/master/BUILDING.md) - How to compile/build the game
- - [ModCharts.md](https://github.com/KadeDev/Kade-Engine/blob/master/ModCharts.md) - Mod Chart Documentation
+Enjoy the mod and make sure to exit with Alt+F4!
