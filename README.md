@@ -1,5 +1,3 @@
-Thank you for downloading Friday Night Funkin'-Pop Shock! We hope you enjoy this new mod!
-
 This version of the game is meant to be played in windowed mode, for streamers and content creators, please set up your capture to the desktop in order to show your audience the full experience of the mod.
 
 # __NOTICE__
