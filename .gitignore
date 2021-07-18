@@ -1,0 +1,10 @@
+export/
+.vscode/
+*/.vs/
+*/*.dir/
+*/x64/
+*/*.vcxproj
+*/*.filters
+*/*.cmake
+*/CMakeCache.txt
+*/*.sln
